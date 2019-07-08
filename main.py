@@ -83,5 +83,5 @@ while True:
     decision = 0
     break
   else:
-    print("Wrong input. Try again: ")
+    print("Wrong inpsut. Try again: ")
 name(decision)
